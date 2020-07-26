@@ -1,0 +1,9 @@
+.lineThrough {
+    text-decoration: line-through;
+    color: blue
+}
+
+ul {
+    margin: auto;
+    width: 70%;
+}
