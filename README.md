@@ -12,4 +12,3 @@ include:
 * edit todo
 * delete todo
 
-<kbd><img src="images/todoImage.PNG" height="350"></kbd>
